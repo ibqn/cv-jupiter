@@ -1,5 +1,6 @@
 jupyter
 matplotlib
+pillow
 opencv-contrib-python
 numpy
 scikit-learn
