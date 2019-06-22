@@ -1,2 +1,6 @@
 venv
 .ipynb_checkpoints
+
+# too big to be included
+yolov3.weights
+
